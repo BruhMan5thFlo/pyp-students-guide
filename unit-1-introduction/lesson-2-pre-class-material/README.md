@@ -12,3 +12,6 @@ Here's a list of units to do before each class:
  * [Data Types](http://learn.rmotr.com/python/advanced-python-programming-class-material/data-types/introduction)
  * [Operators](http://learn.rmotr.com/python/advanced-python-programming-class-material/operators/introduction)
  * [Control Flow Structures](http://learn.rmotr.com/python/advanced-python-programming-class-material/control-flow-structures/introduction)
+ * [Collections](http://learn.rmotr.com/python/advanced-python-programming-class-material/collections/introduction)
+ * [Functions](http://learn.rmotr.com/python/advanced-python-programming-class-material/functions/introduction)
+ * [Functional Programming](http://learn.rmotr.com/python/advanced-python-programming-class-material/functional-programming/introduction)
