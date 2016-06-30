@@ -11,6 +11,3 @@ As you know, we have 1 class per week (4 classes in total). There are a few thin
 **Readings and coding exercises are MANDATORY. We'll assume you've gone through them before class*
 
 We'll also ask you to test your own knowledge by working on a few individual exercises. The reasoning is that, after you've read some new Python topics, you want to put them into practice. There's no better way to raise questions (that will be answered during class), than by trying to make something work.
-
-
-**Go to the next lesson in this course to see what readings and assignments you have do before next class: **
