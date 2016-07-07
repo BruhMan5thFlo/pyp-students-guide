@@ -15,3 +15,9 @@ Here's a list of units to do before each class:
  * [Collections](http://learn.rmotr.com/python/advanced-python-programming-class-material/collections/introduction)
  * [Functions](http://learn.rmotr.com/python/advanced-python-programming-class-material/functions/introduction)
  * [Functional Programming](http://learn.rmotr.com/python/advanced-python-programming-class-material/functional-programming/introduction)
+
+## Class 2
+
+ * [Fundamentals of OOP](http://learn.rmotr.com/python/advanced-python-programming-class-material/fundamentals-of-object-oriented-programming/introduction)
+ * [Advanced OOP](http://learn.rmotr.com/python/advanced-python-programming-class-material/advanced-oop/introduction)
+ * [Generators and Iterators](http://learn.rmotr.com/python/advanced-python-programming-class-material/generators-and-iterators/introduction)
