@@ -21,3 +21,10 @@ Here's a list of units to do before each class:
  * [Fundamentals of OOP](http://learn.rmotr.com/python/advanced-python-programming-class-material/fundamentals-of-object-oriented-programming/introduction)
  * [Advanced OOP](http://learn.rmotr.com/python/advanced-python-programming-class-material/advanced-oop/introduction)
  * [Generators and Iterators](http://learn.rmotr.com/python/advanced-python-programming-class-material/generators-and-iterators/introduction)
+
+## Class 3
+
+* [Modules and Packages](http://learn.rmotr.com/python/advanced-python-programming-class-material/modules-and-packages/introduction)
+* [Decorators](http://learn.rmotr.com/python/advanced-python-programming-class-material/decorators/introduction)
+* [File Handling](http://learn.rmotr.com/python/advanced-python-programming-class-material/file-handling/introduction)
+* [Context Managers](http://learn.rmotr.com/python/advanced-python-programming-class-material/context-managers/introduction)
