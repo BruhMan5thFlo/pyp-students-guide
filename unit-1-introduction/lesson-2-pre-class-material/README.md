@@ -28,3 +28,9 @@ Here's a list of units to do before each class:
 * [Decorators](http://learn.rmotr.com/python/advanced-python-programming-class-material/decorators/introduction)
 * [File Handling](http://learn.rmotr.com/python/advanced-python-programming-class-material/file-handling/introduction)
 * [Context Managers](http://learn.rmotr.com/python/advanced-python-programming-class-material/context-managers/introduction)
+
+## Class 4
+
+Class 4 deals with Web Development. The unit in learn covering it has more resources: [Unit Web development](http://learn.rmotr.com/python/advanced-python-programming-class-material/basic-web-development/introduction)
+
+Basically we just need you to make an attempt at the [Flask tutorial](http://flask.pocoo.org/docs/0.11/tutorial/#tutorial).
