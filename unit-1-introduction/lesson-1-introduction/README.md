@@ -11,3 +11,13 @@ As you know, we have 1 class per week (4 classes in total). There are a few thin
 **Readings and coding exercises are MANDATORY. We'll assume you've gone through them before class**
 
 We'll also ask you to test your own knowledge by working on a few individual exercises. The reasoning is that, after you've read some new Python topics, you want to put them into practice. There's no better way to raise questions (that will be answered during class), than by trying to make something work.
+
+## How to do the pre-class work
+
+We use this same platform ([learn.rmotr.com](http://learn.rmotr.com/)) to include the readings and exercises before class. For each class, **we'll give you a set of _Units_ to complete**. A _unit_ contains a lesson including the readings to do (usually with the name _Introduction_ and coding exercises to complete). Here's an example of a unit in [learn.rmotr.com](http://learn.rmotr.com):
+
+![learn.rmotr.com unit](http://i.imgur.com/a7vWBXc.png)
+
+## What should I do?
+
+Each course (Intro to Python, Advanced Python, or Django Webdev) has its own set of pre-class material to work on (both readings and exercises). Please navigate to the following lessons.
