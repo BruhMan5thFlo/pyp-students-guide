@@ -20,4 +20,7 @@ We use this same platform ([learn.rmotr.com](http://learn.rmotr.com/)) to includ
 
 ## What should I do?
 
-Each course (Intro to Python, Advanced Python, or Django Webdev) has its own set of pre-class material to work on (both readings and exercises). Please navigate to the following lessons.
+Each course (Intro to Python, Advanced Python, or Django Webdev) has its own set of pre-class material to work on (both readings and exercises). Please navigate to the following sections depending on the course you're taking:
+
+* [Intro to Programming with Python](http://learn.rmotr.com/python/rmotrcom-students-guide/introduction/intro-to-python)
+* [Advanced Python Programming](http://learn.rmotr.com/python/rmotrcom-students-guide/introduction/advanced-python)
