@@ -1,26 +1,30 @@
 # Introduction
 
+* Welcome! (overview how rmotr works, communication, )
+* How to Get Help?
+* Requirements for sessions (classes and coding sessions)
+* Students System
+* Getting help from mentors
+* (?) Each course specific methodology
+
 Welcome to rmotr.com! This guide will help you keep track of how things work in a rmotr.com course.
 
 > Please feel free to suggest things we could include in this guide. This guide is backed in a **public and open source** [Github repo](https://github.com/rmotr-curriculum/pyp-students-guide) and everyone can contribute to it.
 
-## Pre-class readings and exercises
+## Welcome!
 
-As you know, we have 1 class per week (4 classes in total). There are a few things to do before every class. **First, we'll ask you to read about the contents that will be covered**, in order to go to class knowing at least the fundamentals about them. We'll expand on those contents during the class, but we don't want you to go to class without ever hearing about them. For example, before the class about **collections**, we want you to at least have read about **lists, tuples, dictionaries, etc**. Maybe you don't know when it's better to use a list or a tuple, or that a dictionary is implemented using a [Hash Table](https://en.wikipedia.org/wiki/Hash_table), but you at least know what they are and it'll sound familiar when we talk about more advanced stuff.
+Welcome to rmotr.com! This is a quick guide to get you started in our platform and methodology; general concepts important to learn when you join **rmotr**. You'll also find a specific _Unit_ with particular info about your course (either **Intro to Python**, **Advanced Python** or **Django**). But first, let's start from our core value: **communication**.
 
-**Readings and coding exercises are MANDATORY. We'll assume you've gone through them before class**
+## Communication
 
-We'll also ask you to test your own knowledge by working on a few individual exercises. The reasoning is that, after you've read some new Python topics, you want to put them into practice. There's no better way to raise questions (that will be answered during class), than by trying to make something work.
+While reading these lines, while working on an individual assignment, or when that shower thought pops up: you can always reach out to us. If you don't understand something, or you have a question, saw a bug or possible improvement, or any other reason: **get in touch**. See the next section about "How to get help" to get more details about it.
 
-## How to do the pre-class work
+## How this guide is structured
 
-We use this same platform ([learn.rmotr.com](http://learn.rmotr.com/)) to include the readings and exercises before class. For each class, **we'll give you a set of _Units_ to complete**. A _unit_ contains a lesson including the readings to do (usually with the name _Introduction_ and coding exercises to complete). Here's an example of a unit in [learn.rmotr.com](http://learn.rmotr.com):
+This website/platform you're currently browsing is what we call _**learn**_. All the content we provide will be hosted on this platform, so we want you to feel comfortable with it. We hope it's intuitive enough to follow. Basically, _**learn**_ has many "courses" (like this one you're browsing). Each course has a set of Units (high level) and each unit has many different "lessons". Each lesson can be either a "reading" lesson (like this one you're currently reading) or an "assignment lesson" that is basically a lesson that has a coding exercise that you can submit in place. ([See an example](http://learn.rmotr.com/python/advanced-python-programming-class-material/introduction/your-first-coding-assignment)). The following diagram will explain it better:
 
 ![learn.rmotr.com unit](http://i.imgur.com/a7vWBXc.png)
 
-## What should I do?
+## Next lesson
 
-Each course (Intro to Python, Advanced Python, or Django Webdev) has its own set of pre-class material to work on (both readings and exercises). Please navigate to the following sections depending on the course you're taking:
-
-* [Intro to Programming with Python](http://learn.rmotr.com/python/rmotrcom-students-guide/introduction/intro-to-python)
-* [Advanced Python Programming](http://learn.rmotr.com/python/rmotrcom-students-guide/introduction/advanced-python)
+Now move to the next lesson that talks about our private **How to Get Help?**.
