@@ -18,6 +18,6 @@ This channel is the main one used to get help from mentors. Just join the channe
 
 ##### Your group's channel
 
-At rmotr, you'll be part of the same group during the entire course. Your group will have its own slack channel. It's a good place to share with your team whatever you want. For example, this is the Intro to Python channel from January's cohort:
+At rmotr, you'll be part of the same group during the entire course. Your group will have its own slack channel. It's a good place to share with your team whatever you want. For example, this is the **Intro to Python** channel from January's cohort:
 
 ![image](https://cloud.githubusercontent.com/assets/872296/22596891/26643d54-ea0c-11e6-830d-82ec165cf589.png)
