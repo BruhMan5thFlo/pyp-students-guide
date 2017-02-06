@@ -19,4 +19,4 @@ The red arrow points the topics that we'll cover during the class and the respec
 Now navigate to the corresponding unit of your course. Either:
 
 * [Intro to Python programming](http://learn.rmotr.com/python/rmotrcom-students-guide/intro-to-python/introduction)
-* Advanced Python Programming
+* [Advanced Python Programming](http://learn.rmotr.com/python/rmotrcom-students-guide/advanced-python/introduction)
