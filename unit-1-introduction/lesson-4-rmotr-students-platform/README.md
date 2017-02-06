@@ -20,4 +20,3 @@ Now navigate to the corresponding unit of your course. Either:
 
 * Intro to Python programming
 * Advanced Python Programming
-* Django Web Development
