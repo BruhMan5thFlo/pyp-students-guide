@@ -20,4 +20,4 @@ This website/platform you're currently browsing is what we call _**learn**_. All
 
 ## Next lesson
 
-Now move to the next lesson that talks about our private [How to Get Help?](http://learn.rmotr.com/python/students-guide/introduction/how-to-get-help)
+Now move to the next lesson that talks about our private [How to Get Help?](http://learn.rmotr.com/python/rmotrcom-students-guide/introduction/how-to-get-help)
