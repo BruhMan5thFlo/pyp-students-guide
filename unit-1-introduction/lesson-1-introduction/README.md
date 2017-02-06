@@ -1,12 +1,5 @@
 # Introduction
 
-* Welcome! (overview how rmotr works, communication, )
-* How to Get Help?
-* Requirements for sessions (classes and coding sessions)
-* Students System
-* Getting help from mentors
-* (?) Each course specific methodology
-
 Welcome to rmotr.com! This guide will help you keep track of how things work in a rmotr.com course.
 
 > Please feel free to suggest things we could include in this guide. This guide is backed in a **public and open source** [Github repo](https://github.com/rmotr-curriculum/pyp-students-guide) and everyone can contribute to it.
