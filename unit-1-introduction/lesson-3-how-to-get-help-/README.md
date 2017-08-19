@@ -1,6 +1,10 @@
 # How to Get Help?
 
-Communication is key at rmotr. It's our core value. We encourage you to reach out whenever you have a question or any particular comment. Let's start with the technical requirements to communicate: slack.
+Communication is key at RMOTR. It's our core value. We encourage you to reach out whenever you have a question or any particular comment. Let's start with the technical requirements to communicate: slack.
+
+## Your TA
+
+During your first week at RMOTR, you should have met your Teacher Assistant. She/He is the number one person to reach out in case you have questions or issues in general.
 
 ## Slack
 

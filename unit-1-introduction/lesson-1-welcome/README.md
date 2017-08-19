@@ -1,12 +1,18 @@
-# Introduction
-
 Welcome to rmotr.com! This guide will help you keep track of how things work in a rmotr.com course.
 
 > Please feel free to suggest things we could include in this guide. This guide is backed in a **public and open source** [Github repo](https://github.com/rmotr-curriculum/pyp-students-guide) and everyone can contribute to it.
 
-## Welcome!
+This guide has a lot of content, and we're constantly updating it. You don't need to read/watch everything right now, but there are a few important things to start with:
 
-Welcome to rmotr.com! This is a quick guide to get you started in our platform and methodology; general concepts important to learn when you join **rmotr**. You'll also find a specific _Unit_ with particular info about your course (either **Intro to Python**, **Advanced Python** or **Django**). But first, let's start from our core value: **communication**.
+* [How to use your students dashboard](/): This is **FUNDAMENTAL**. Your student's dashboard is your go-to place for every resource at RMOTR.
+* [Code of Conduct](/): Equally important, please make sure you read and understand it before starting the course.
+* [Required tools to start the class](/): What to install and have ready before the class starts.
+* [How to get help](/): How and to whom reach out for help.
+
+You might also find interesting our:
+
+* [Individual work guide](/): how the learn platform works and how to read tests.
+* [Group Project Guides](/): How Group Projects work (including installing libraries, github workflow, etc).
 
 ## Communication
 

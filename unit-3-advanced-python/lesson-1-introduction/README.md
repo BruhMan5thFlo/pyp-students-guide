@@ -2,13 +2,13 @@
 
 Welcome to our Advanced Python course! This is a great course to take you to the next level of programming. After this course, you'll feel completely confident about what you do. You'll understand with a great level of detail what's going on underneath. You'll be able to create beautiful and styled programs using advanced features as Decorators, Context Managers, Mixins, etc.
 
-Of course, all that comes with a cost :). You'll need to work a little bit harder to get the most out of this course.
+Of course, all that comes to a cost :). You'll need to work a little bit harder to get the most out of this course.
 
 ## How the course works
 
-For this course, we'll ask you to go over the topics that we'll cover during class, **before the actual class**. If you're taking this course, you are already an experienced developer and you shouldn't have many issues going through the topics before the class.
+For this course, we'll ask you to go over the topics that we'll cover during class, **before the actual class**. If you're taking this course, you are already an experience developer and you shoulnd't have much issues going through the topics before the class.
 
-**Why before?** Simple — we want you to get the most out of this class. We want smart and advanced questions. We want you to be able to squeeze the most out of your instructor. And to do that, you need to have a good sense of the topics we'll cover.
+**Why before?**: Simple, we want you to take the most out of the class. We want smart and advanced questions. We want you to be able to squeeze the most out of your instructor. And to do that, you need to have a good sense of the topics we'll cover.
 
 **What if I need help or I don't understand something?** That's completely fine! And even expected. We want you to come to class with questions. Also, remember that there are mentors available in case you need help.
 

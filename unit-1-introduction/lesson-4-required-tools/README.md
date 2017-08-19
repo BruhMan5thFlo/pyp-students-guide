@@ -2,6 +2,8 @@
 
 We've tried to minimize the requirements for our course as much as possible. That's why you can take our course in _virtually_ any device. Of course that the recommended setup will include a decent laptop/desktop pc, but there are no requirements about a certain Operating System to use.
 
+**All this tools should be FREE** (Don't pay for anything unless you're willing to do so, it's not required for class)
+
 ## Class videoconference
 
 We use [Zoom](https://zoom.us/) for our classes and coding sessions. Zoom can be used in a wide variety of clients. Just download and install your preferred one from here: [http://zoom.us/download#client_4meeting](http://zoom.us/download#client_4meeting). It's a good idea to also install a mobile app. If you are ever running late to class, you can use it on the go.
@@ -20,11 +22,11 @@ If you click on that link you should go to your profile page. There's more infor
 
 ## Cloud9
 
-[Cloud 9](https://c9.io) (or just C9) is the collaborative IDE we'll use during our classes to work together. You'll receive an invitation like the one shown below. You just need to follow the steps listed, really simple!
+Create an account in [Cloud 9](https://c9.io) (or just C9). It's the collaborative IDE we'll use during our classes to work together.
 
 ![C9 setup](http://i.imgur.com/Uhm39Yp.png)
 
-## Setting up your rmotr account
+## Setting up your RMOTR account
 
 Once you confirm your spot you'll receive a link to signup in our private platform. The signup process is really simple and the only thing you have to do is login with your Github account:
 
