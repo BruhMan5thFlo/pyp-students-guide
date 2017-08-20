@@ -1,6 +1,6 @@
 # Requirements
 
-We've tried to minimize the requirements for our course as much as possible. That's why you can take our course in _virtually_ any device. Of course that the recommended setup will include a decent laptop/desktop pc, but there are no requirements about a certain Operating System to use.
+We've tried to minimize the requirements for our course as much as possible. That's why you can take our course with _virtually_ any device. Of course that the recommended setup will include a decent laptop/desktop pc, but there are no requirements about a certain Operating System to use.
 
 **All this tools should be FREE** (Don't pay for anything unless you're willing to do so, it's not required for class)
 
@@ -10,7 +10,7 @@ We use [Zoom](https://zoom.us/) for our classes and coding sessions. Zoom can be
 
 ## Github account
 
-You'll need a Github account to have access to the repositories. To create your account go to this page: [https://github.com/join](https://github.com/join)
+You'll need a Github account to have access to the repositories. To create your account go to this page: [https://github.com/join](https://github.com/join).
 
 After you register you'll see your github username at the top-right corner of the site, as you can see in this picture (my username is `santiagobasulto` and it's next to my picture):
 
@@ -22,9 +22,7 @@ If you click on that link you should go to your profile page. There's more infor
 
 ## Cloud9
 
-Create an account in [Cloud 9](https://c9.io) (or just C9). It's the collaborative IDE we'll use during our classes to work together.
-
-![C9 setup](http://i.imgur.com/Uhm39Yp.png)
+Create an account in [Cloud 9](https://c9.io/signup). It's the collaborative IDE we'll use during our classes to work together. The account is FREE. They'll ask you to put a Credit Card to validate you're a real person, but they **will not charge you**. If you don't have a credit card at hand, get in touch with us (or your TA) to bypass this limitation (we need to get in touch with C9).
 
 ## Setting up your RMOTR account
 

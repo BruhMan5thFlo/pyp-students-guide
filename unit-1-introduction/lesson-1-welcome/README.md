@@ -5,9 +5,9 @@ Welcome to rmotr.com! This guide will help you keep track of how things work in 
 This guide has a lot of content, and we're constantly updating it. You don't need to read/watch everything right now, but there are a few important things to start with:
 
 * [How to use your students dashboard](/): This is **FUNDAMENTAL**. Your student's dashboard is your go-to place for every resource at RMOTR.
-* [Code of Conduct](/): Equally important, please make sure you read and understand it before starting the course.
-* [Required tools to start the class](/): What to install and have ready before the class starts.
-* [How to get help](/): How and to whom reach out for help.
+* [Code of Conduct](/python/rmotrcom-students-guide/introduction/code-of-conduct): Equally important, please make sure you read and understand it before starting the course.
+* [Required tools to start the class](/python/rmotrcom-students-guide/introduction/required-tools): What to install and have ready before the class starts.
+* [How to get help](/python/rmotrcom-students-guide/introduction/how-to-get-help): How and to whom reach out for help.
 
 You might also find interesting our:
 
